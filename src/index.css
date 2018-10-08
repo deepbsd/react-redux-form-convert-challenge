@@ -7,3 +7,8 @@ body {
 input, textarea, label {
     display: block;
 }
+
+.wrapper {
+  margin: 0 auto;
+  width: 90%;
+}
